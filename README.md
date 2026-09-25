@@ -21,9 +21,9 @@ Pinned conversion of the Apache-2.0 BioClinical ModernBERT mean-pooling sentence
 
 | File | Purpose |
 |---|---|
-| `bioclinical-modernbert-base-embeddings-F16.gguf` | Reference embeddings |
-| `bioclinical-modernbert-base-embeddings-Q8_0.gguf` | Higher-quality compact embeddings |
-| `bioclinical-modernbert-base-embeddings-Q4_K_M.gguf` | Smallest release format |
+| `bioclinical-modernbert-F16.gguf` | Reference embeddings |
+| `bioclinical-modernbert-Q8_0.gguf` | Higher-quality compact embeddings |
+| `bioclinical-modernbert-Q4_K_M.gguf` | Smallest release format |
 
 ## Validation
 
