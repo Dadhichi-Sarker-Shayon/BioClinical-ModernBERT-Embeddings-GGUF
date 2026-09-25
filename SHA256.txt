@@ -1,0 +1,3 @@
+3fcb8a707dc4130845958a0a3f788a6b1a6d9010dabc869c01fa5a27e6148611  bioclinical-modernbert-F16.gguf
+05f6a549426fa873cd10e42a90b7ff83ec7dda5ad4c7a72775183fbfa1e1d1d1  bioclinical-modernbert-Q4_K_M.gguf
+3853354821331940359647710eceb0372fa32dd1bb428342f3104bc519cafeee  bioclinical-modernbert-Q8_0.gguf
