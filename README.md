@@ -13,7 +13,7 @@ tags:
 
 # BioClinical ModernBERT Embeddings GGUF
 
-[Source model](https://huggingface.co/NeuML/bioclinical-modernbert-base-embeddings) · [Build hub](https://github.com/Dadhichi-Sarker-Shayon/BioClinical-ModernBERT-Embeddings-GGUF)
+[Source model](https://huggingface.co/NeuML/bioclinical-modernbert-base-embeddings) · [HF release](https://huggingface.co/ShayonSarker/BioClinical-ModernBERT-Embeddings-GGUF) · [Build hub](https://github.com/Dadhichi-Sarker-Shayon/BioClinical-ModernBERT-Embeddings-GGUF)
 
 Pinned conversion of the Apache-2.0 BioClinical ModernBERT mean-pooling sentence embedding model. The native ModernBERT graph has 22 layers, 768 dimensions, local attention, and an 8,192-token native context window.
 
